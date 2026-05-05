@@ -57,3 +57,5 @@ Data Visualization
 Dashboard Design
 Business Insights & KPI Development
 Power BI & Power Query
+
+![Sales Dashboard](./Sales_Dashboard.png)
